@@ -1,0 +1,63 @@
+.container {
+    background: silver;
+    height: 700px;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+
+}
+
+.blok1 {
+    background: blue;
+    height: 200px;
+    width: 550px;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 15px;
+    justify-content: center;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    display: block;
+    padding-top: 60px;
+
+}
+
+.blok2 {
+    height: 170px;
+    width: 550px;
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+
+}
+
+.element {
+    background: cornflowerblue;
+    height: 180px;
+    width: 170px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.blok3 {
+    background: blue;
+    height: 280px;
+    width: 550px;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+
+}
+
