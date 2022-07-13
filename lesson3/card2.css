@@ -1,0 +1,57 @@
+.body{
+    margin: 0;
+}
+.container {
+    height: 200px;
+    width: 600px;
+    background: silver;
+    padding-top: 50px;
+}
+.M{
+    height: 30px;
+    width: 100px;
+    border-radius: 10%;
+    background: black;
+    margin-left: 70px;
+
+}
+.map {
+    height: 200px;
+    background: darkblue;
+    position: relative;
+    bottom: -10px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background: bisque;
+    border-radius: 10%;
+}
+.row{
+    height: 200px;
+    background: silver;
+}
+.target{
+    display: flex;
+    justify-content:space-evenly;
+    position: absolute;
+    bottom: -50px;
+    width: 100%;
+
+}
+
+.icons{
+    width: 40px;
+    height: 30px;
+    border: 1px solid silver;
+    border-radius: 50%;
+    margin-left: auto;
+    font-size: 20px;
+    padding-right: 30px;
+    margin-top: -25px;
+    display: flex;
+    margin-right: 25px;
+}
+.icons2{
+    margin-right: 15px;
+}
