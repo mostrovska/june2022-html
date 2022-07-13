@@ -1,0 +1,60 @@
+.container {
+    width: 800px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid silver;
+    background: white;
+    margin: auto;
+    margin-top: -30px;
+    color: darkorange;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+
+}
+
+.box {
+    background: white;
+    width: 220px;
+    height: 280px;
+    border: 1px solid slategray;
+
+}
+
+h1 {
+    color: black;
+    font-size: 20px;
+    margin-top: 30px;
+
+}
+
+p {
+    color: slategray;
+    margin-top: 30px;
+}
+
+h2 {
+    height: 40px;
+    width: 140px;
+    border: 1px solid silver;
+    font-size: 15px;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 40px;
+
+
+}
